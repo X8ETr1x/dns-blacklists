@@ -5,6 +5,7 @@ apkarc.com
 axios.com
 bigeasymagazine.com
 bloggingdart.com
+cbcal.com
 covenantwines.com
 data-nectar.com
 dollarstockclubs.com
@@ -48,3 +49,5 @@ themarq.com.vn
 thestageonbroadway.com
 togotribune.com
 turkish-football.com
+wellspringfp.com
+wellspringfinancialpartners.com
