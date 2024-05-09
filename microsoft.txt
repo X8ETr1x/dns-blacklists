@@ -13,3 +13,4 @@ th.bing.com
 v10.events.data.microsoft.com
 v20.events.data.microsoft.com
 windows.msn.com
+www.bingapis.com
