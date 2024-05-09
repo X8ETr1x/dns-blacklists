@@ -1,0 +1,14 @@
+api.msn.com
+assets.msn.com
+config.edge.skype.com
+dns.msftncsi.com
+fd.api.iris.microsoft.com
+functional.events.data.microsoft.com
+img-s-msn-com.akamaized.net
+ipv6.msftconnecttest.com
+settings-win.data.microsoft.com
+srtb.msn.com
+th.bing.com
+v10.events.data.microsoft.com
+v20.events.data.microsoft.com
+windows.msn.com
