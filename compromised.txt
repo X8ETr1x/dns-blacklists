@@ -6,10 +6,12 @@ axios.com
 bigeasymagazine.com
 bloggingdart.com
 cbcal.com
+club.capital
 covenantwines.com
 data-nectar.com
 dollarstockclubs.com
 dreamteampromos.com
+email.franciscanmedia.org
 erieniagarape.org
 faceofmalawi.com
 filutowskieye.com
@@ -54,3 +56,5 @@ usgbc-ca.org
 wellsnetlease.com
 wellspringfp.com
 wellspringfinancialpartners.com
+www.camplucy.com
+www.coreland.com
