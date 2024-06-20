@@ -1,3 +1,4 @@
 api.usercentrics.eu
 cdn.cquotient.com
 cdn.dynamicyield.com
+s.go-mpulse.net
